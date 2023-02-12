@@ -42,7 +42,7 @@ lista_productos.push (new Productos ("Tobillera", "Largo 26 cm" , "Plata 925" , 
 
 
 
-//CICLO DE AUTOMATIZACIÓN INGRESO PRODUCTO
+//CICLO DE AUTOMATIZACIÓN INGRESO PRODUCTOS
 
 /*for (let i = 0; i <6 ; i = i + 1){
 
@@ -111,7 +111,7 @@ while (consulta == "no" || consulta == "NO" || consulta == "No" || consulta == "
 }
 
 
-// SE DECLARA LA VARIABLE PARA SIMULAR UN CARRO DE COMPRAS
+// SE DECLARA LA VARIABLE PARA SIMULAR UN CARRO DE COMPRAS EN FORMA DE ARRAY
 let carro_compras = []
 
 
